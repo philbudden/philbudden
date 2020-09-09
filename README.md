@@ -1,9 +1,9 @@
 ### :wave: I'm Phil
-- :uk: I'm based in the UK
-- :snake: I'm a Python Developer & Data Engineer
-- :octocat: I'm passionate about Open Source
-- :computer: I'm currently working on automating everything!
-- :minibus: I have a CamperVan and two crazy Spaniels
+- :uk: I'm based in the UK :uk:
+- :snake: I'm a Python Developer & Data Engineer :snake:
+- :octocat: I'm passionate about Open Source :octocat:
+- :computer: I'm currently working on automating everything! :computer:
+- :minibus: I have a CamperVan and two crazy Spaniels :dog2::dog2:
 
 ### Connect with me:
 
@@ -24,7 +24,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 <br />
 
